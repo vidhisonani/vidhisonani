@@ -15,7 +15,7 @@
 ## 📂 Projects
 
 - 🎬 **[Netflix Clone](https://github.com/vidhisonani/netflix_clone)**  
-  *A static Netflix homepage clone built with HTML & CSS.*  
+  *A static Netflix homepage clone built with HTML & CSS — learned about positioning, flexbox, and responsive design.*  
 
 - 🧮 **[Calculator](https://github.com/vidhisonani/calculator)**  
   *A functional calculator built using HTML, CSS, and JavaScript.*  
@@ -39,7 +39,7 @@
 ---
 
 ### 📚 Currently Learning  
-![JavaScript DOM](https://img.shields.io/badge/DOM_Manipulation-FFCA28?style=for-the-badge&logo=javascript&logoColor=black) ![Events](https://img.shields.io/badge/Events-FFCA28?style=for-the-badge&logo=javascript&logoColor=black) ![Functions](https://img.shields.io/badge/Functions-FFCA28?style=for-the-badge&logo=javascript&logoColor=black)  
+🌱 Currently exploring JavaScript DOM manipulation, event handling, and functions to create more interactive projects. 
 
 ---
 
