@@ -39,6 +39,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhisonani&layout=compact&theme=radical)  
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=vidhisonani&theme=radical&hide_border=true)
+
+---
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vidhi-patel-bb358b375/)  
