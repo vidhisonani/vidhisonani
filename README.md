@@ -11,20 +11,20 @@
 - 🚀 Excited to learn backend development and databases soon  
 
 ---
-
 ## 📂 Projects  
+
+- ⏰ **[Digital Clock](https://github.com/vidhisonani/digital_clock)**  
+  *A digital clock built with HTML, CSS, and JavaScript — displays live time and date.* [Live Demo](https://vidhisonani.github.io/digital_clock/)  
 
 - 🎬 **[Netflix Clone](https://github.com/vidhisonani/netflix_clone)**  
   *A static Netflix homepage clone built with HTML & CSS — practiced layout, flexbox, and responsive design.*  
 
 - 🧮 **[Calculator](https://github.com/vidhisonani/calculator)**  
-  *A functional calculator built using HTML, CSS, and JavaScript.*  
+  *A functional calculator built using HTML, CSS, and JavaScript.* [Live Demo](https://vidhisonani.github.io/calculator/)  
 
 - 🌐 **[Portfolio Website](https://vidhisonani.github.io/Portfolio_VidhiPatel/)**  
-  *A personal portfolio website showcasing my projects, skills, and contact information.*  
-
-- ⏰ **[Digital Clock](https://github.com/vidhisonani/digital_clock)**  
-  *A digital clock built with HTML, CSS, and JavaScript — displays live time and date.*  
+  *A personal portfolio website showcasing my projects, skills, and contact information.* [Live Demo](https://vidhisonani.github.io/Portfolio_VidhiPatel/)  
+ 
 
 ---
 ## 🔧 Technologies & Skills  
