@@ -13,9 +13,6 @@
 ---
 ## 📂 Projects  
 
-- ⏰ **[Digital Clock](https://github.com/vidhisonani/digital_clock)**  
-  *A digital clock built with HTML, CSS, and JavaScript — displays live time and date.* [Live Demo](https://vidhisonani.github.io/digital_clock/)  
-
 - 🎬 **[Netflix Clone](https://github.com/vidhisonani/netflix_clone)**  
   *A static Netflix homepage clone built with HTML & CSS — practiced layout, flexbox, and responsive design.*  
 
@@ -24,7 +21,10 @@
 
 - 🌐 **[Portfolio Website](https://github.com/vidhisonani/Portfolio_VidhiPatel/)**  
   *A personal portfolio website showcasing my projects, skills, and contact information.* [Live Demo](https://vidhisonani.github.io/Portfolio_VidhiPatel/)  
- 
+
+ - 💡 **[Mini Projects](https://github.com/vidhisonani/web-mini-projects)**  
+  *A collection of small HTML, CSS, and JavaScript projects for practice.*  
+
 
 ---
 ## 🔧 Technologies & Skills  
