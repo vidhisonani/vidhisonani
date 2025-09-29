@@ -12,13 +12,7 @@
 
 ---
 ## 📂 Projects  
-
-- 🎬 **[Netflix Clone](https://github.com/vidhisonani/netflix_clone)**  
-  *A static Netflix homepage clone built with HTML & CSS — practiced layout, flexbox, and responsive design.*  
-
-- 🧮 **[Calculator](https://github.com/vidhisonani/calculator)**  
-  *A functional calculator built using HTML, CSS, and JavaScript.* [Live Demo](https://vidhisonani.github.io/calculator/)  
-
+ 
 - 🌐 **[Portfolio Website](https://github.com/vidhisonani/Portfolio_VidhiPatel/)**  
   *A personal portfolio website showcasing my projects, skills, and contact information.* [Live Demo](https://vidhisonani.github.io/Portfolio_VidhiPatel/)  
 
