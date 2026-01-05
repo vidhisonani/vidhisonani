@@ -75,5 +75,6 @@
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vidhilotus7@gmail.com)
 
 ---
-
+<!--
 ![Profile Views](https://komarev.com/ghpvc/?username=vidhisonani&color=blueviolet)
+-->
