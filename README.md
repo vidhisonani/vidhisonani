@@ -15,7 +15,13 @@
 ## 📂 Projects  
  
 - 🌐 **[Portfolio Website](https://github.com/vidhisonani/Portfolio_VidhiPatel/)**  
-  *A personal portfolio website showcasing my projects, skills, and contact information.* [Live Demo](https://vidhisonani.github.io/Portfolio_VidhiPatel/)  
+  *A personal portfolio website showcasing my projects, skills, and contact information.* [Live Demo](https://vidhisonani.github.io/Portfolio_VidhiPatel/)
+  
+- 👩‍🍳 **[Chef Claude (React)](https://github.com/vidhisonani/chef-claude-react)**  
+  *A frontend learning project exploring React, AI APIs to generate recipes from user provided ingredients.*
+
+- ⚛️ **[Mini React Projects](https://github.com/vidhisonani/mini-react-projects)**  
+  *A collection of small React projects built for practice and learning.*
 
  - 💡 **[Mini Projects](https://github.com/vidhisonani/web-mini-projects)**  
   *A collection of small HTML, CSS, and JavaScript projects for practice.*  
