@@ -16,8 +16,8 @@
 
 ## 📂 Projects  
  
-- 🌐 **[Portfolio Website](https://github.com/vidhisonani/Portfolio_VidhiPatel/)**  
-  *A personal portfolio website showcasing my projects, skills, and contact information.* [Live Demo](https://vidhisonani.github.io/Portfolio_VidhiPatel/)
+- 🌐 **[Portfolio Website](https://github.com/vidhisonani/my-personal-space)**  
+  *A personal portfolio website showcasing my projects, skills, and contact information.* [Live Demo](https://vidhipatel-portfolio.vercel.app/)
 
 - ☕ **[Coffee Cafe (React)](https://github.com/vidhisonani/coffee-cafe)**  
   *A modern, responsive café website built with React and Tailwind CSS, featuring smooth animations and a clean UI, includes Dark Mode support.* [Live Demo](https://coffee-cafe-by-vidhi.netlify.app/)
