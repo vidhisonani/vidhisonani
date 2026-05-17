@@ -20,7 +20,7 @@
   *A personal portfolio website showcasing my projects, skills, and contact information.* [Live Demo](https://vidhipatel-portfolio.vercel.app/)
   
 - 👩‍🍳 **[Chef Claude (React)](https://github.com/vidhisonani/chef-claude-react)**  
-  *A frontend learning project exploring React, AI APIs to generate recipes from user provided ingredients.*
+  *Full-stack AI recipe generator built with React and Node.js + Express. Generates recipes from ingredients using Groq AI — with secure backend API handling.* [Live Demo](https://chef-claude-react-five.vercel.app/)
 
 - ⚛️ **[Mini React Projects](https://github.com/vidhisonani/mini-react-projects)**  
   *A collection of small React projects built for practice and learning.*
